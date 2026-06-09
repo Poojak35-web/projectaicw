@@ -7,8 +7,8 @@ from sklearn.tree import DecisionTreeClassifier
 # ---------------------------------
 # Load Dataset
 # ---------------------------------
-df = pd.read_csv('/workspaces/projectaicw/notebook/Gift_Recommendations_Min5.csv')
 
+df = pd.read_csv('notebook/Gift_Recommendations_Min5.csv')
 # ---------------------------------
 # Prepare Data
 # ---------------------------------
